@@ -1,0 +1,15 @@
+{
+  "name": "knx-tests",
+  "version": "1.0.0",
+  "description": "Tests for KNX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei-Flavius Ivan",
+  "license": "ISC",
+  "dependencies": {
+    "knx": "^2.3.8",
+    "knx-ip": "^0.1.13"
+  }
+}
